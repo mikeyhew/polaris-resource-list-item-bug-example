@@ -1,0 +1,13 @@
+{
+  "name": "resource-list-item-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@shopify/polaris": "^3.11.0",
+    "@types/react": "^16.8.8",
+    "@types/react-dom": "^16.8.3",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  }
+}
